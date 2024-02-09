@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreReactCrudJson.Server", "AspNetCoreReactCrudJson.Server\AspNetCoreReactCrudJson.Server.csproj", "{EF97AFC8-932F-4FAF-A570-3F81A19F458C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aspnetcorereactcrudjson.client", "aspnetcorereactcrudjson.client\aspnetcorereactcrudjson.client.esproj", "{BD2911DF-56E6-446B-A36A-85BB1096EF13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A586733B-4DF6-440F-9C94-D41D754C2EAA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF97AFC8-932F-4FAF-A570-3F81A19F458C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF97AFC8-932F-4FAF-A570-3F81A19F458C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF97AFC8-932F-4FAF-A570-3F81A19F458C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF97AFC8-932F-4FAF-A570-3F81A19F458C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2911DF-56E6-446B-A36A-85BB1096EF13}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78194569-B211-45E8-99F6-47180A724ACD}
+	EndGlobalSection
+EndGlobal
